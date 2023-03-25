@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\TeatClass\bin\Debug\TeatClass.exe.config
+E:\Develop\VisualStudio\Code\CSharp\TeatClass\bin\Debug\TeatClass.exe
+E:\Develop\VisualStudio\Code\CSharp\TeatClass\bin\Debug\TeatClass.pdb
+E:\Develop\VisualStudio\Code\CSharp\TeatClass\obj\Debug\TeatClass.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\TeatClass\obj\Debug\TeatClass.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\TeatClass\obj\Debug\TeatClass.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\TeatClass\obj\Debug\TeatClass.exe
+E:\Develop\VisualStudio\Code\CSharp\TeatClass\obj\Debug\TeatClass.pdb

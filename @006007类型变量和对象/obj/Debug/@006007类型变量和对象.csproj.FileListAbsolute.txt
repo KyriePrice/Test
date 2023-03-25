@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\@006007类型变量和对象\bin\Debug\@006007类型变量和对象.exe.config
+E:\Develop\VisualStudio\Code\CSharp\@006007类型变量和对象\bin\Debug\@006007类型变量和对象.exe
+E:\Develop\VisualStudio\Code\CSharp\@006007类型变量和对象\bin\Debug\@006007类型变量和对象.pdb
+E:\Develop\VisualStudio\Code\CSharp\@006007类型变量和对象\obj\Debug\@006007类型变量和对象.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\@006007类型变量和对象\obj\Debug\@006007类型变量和对象.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\@006007类型变量和对象\obj\Debug\@006007类型变量和对象.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\@006007类型变量和对象\obj\Debug\@006007类型变量和对象.exe
+E:\Develop\VisualStudio\Code\CSharp\@006007类型变量和对象\obj\Debug\@006007类型变量和对象.pdb

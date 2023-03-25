@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\001_初识类和名称空间\bin\Debug\001_初识类和名称空间.exe.config
+E:\Develop\VisualStudio\Code\CSharp\001_初识类和名称空间\bin\Debug\001_初识类和名称空间.exe
+E:\Develop\VisualStudio\Code\CSharp\001_初识类和名称空间\bin\Debug\001_初识类和名称空间.pdb
+E:\Develop\VisualStudio\Code\CSharp\001_初识类和名称空间\obj\Debug\001_初识类和名称空间.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\001_初识类和名称空间\obj\Debug\001_初识类和名称空间.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\001_初识类和名称空间\obj\Debug\001_初识类和名称空间.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\001_初识类和名称空间\obj\Debug\001_初识类和名称空间.exe
+E:\Develop\VisualStudio\Code\CSharp\001_初识类和名称空间\obj\Debug\001_初识类和名称空间.pdb
