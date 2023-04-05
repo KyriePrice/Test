@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_03_Console\bin\Debug\MyBase001_03_Console.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_03_Console\bin\Debug\MyBase001_03_Console.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_03_Console\bin\Debug\MyBase001_03_Console.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_03_Console\obj\Debug\MyBase001_03_Console.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_03_Console\obj\Debug\MyBase001_03_Console.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_03_Console\obj\Debug\MyBase001_03_Console.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_03_Console\obj\Debug\MyBase001_03_Console.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_03_Console\obj\Debug\MyBase001_03_Console.pdb
