@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_01_MyFristDemo\bin\Debug\MyBase001_01_MyFristDemo.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_01_MyFristDemo\bin\Debug\MyBase001_01_MyFristDemo.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_01_MyFristDemo\bin\Debug\MyBase001_01_MyFristDemo.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_01_MyFristDemo\obj\Debug\MyBase001_01_MyFristDemo.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_01_MyFristDemo\obj\Debug\MyBase001_01_MyFristDemo.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_01_MyFristDemo\obj\Debug\MyBase001_01_MyFristDemo.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_01_MyFristDemo\obj\Debug\MyBase001_01_MyFristDemo.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase001_01_MyFristDemo\obj\Debug\MyBase001_01_MyFristDemo.pdb
