@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_01_注释符\bin\Debug\MyBase002_01_注释符.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_01_注释符\bin\Debug\MyBase002_01_注释符.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_01_注释符\bin\Debug\MyBase002_01_注释符.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_01_注释符\obj\Debug\MyBase002_01_注释符.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_01_注释符\obj\Debug\MyBase002_01_注释符.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_01_注释符\obj\Debug\MyBase002_01_注释符.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_01_注释符\obj\Debug\MyBase002_01_注释符.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_01_注释符\obj\Debug\MyBase002_01_注释符.pdb
