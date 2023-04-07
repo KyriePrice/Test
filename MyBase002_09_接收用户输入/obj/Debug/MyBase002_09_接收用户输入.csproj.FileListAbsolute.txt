@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_09_接收用户输入\bin\Debug\MyBase002_09_接收用户输入.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_09_接收用户输入\bin\Debug\MyBase002_09_接收用户输入.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_09_接收用户输入\bin\Debug\MyBase002_09_接收用户输入.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_09_接收用户输入\obj\Debug\MyBase002_09_接收用户输入.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_09_接收用户输入\obj\Debug\MyBase002_09_接收用户输入.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_09_接收用户输入\obj\Debug\MyBase002_09_接收用户输入.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_09_接收用户输入\obj\Debug\MyBase002_09_接收用户输入.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_09_接收用户输入\obj\Debug\MyBase002_09_接收用户输入.pdb

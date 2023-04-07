@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_05_赋值运算\bin\Debug\MyBase002_05_赋值运算.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_05_赋值运算\bin\Debug\MyBase002_05_赋值运算.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_05_赋值运算\bin\Debug\MyBase002_05_赋值运算.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_05_赋值运算\obj\Debug\MyBase002_05_赋值运算.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_05_赋值运算\obj\Debug\MyBase002_05_赋值运算.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_05_赋值运算\obj\Debug\MyBase002_05_赋值运算.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_05_赋值运算\obj\Debug\MyBase002_05_赋值运算.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase002_05_赋值运算\obj\Debug\MyBase002_05_赋值运算.pdb
