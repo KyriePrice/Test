@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_02_加加减减\bin\Debug\MyBase003_02_加加减减.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_02_加加减减\bin\Debug\MyBase003_02_加加减减.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_02_加加减减\bin\Debug\MyBase003_02_加加减减.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_02_加加减减\obj\Debug\MyBase003_02_加加减减.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_02_加加减减\obj\Debug\MyBase003_02_加加减减.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_02_加加减减\obj\Debug\MyBase003_02_加加减减.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_02_加加减减\obj\Debug\MyBase003_02_加加减减.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_02_加加减减\obj\Debug\MyBase003_02_加加减减.pdb

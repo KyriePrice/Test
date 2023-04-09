@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_01_Convert\bin\Debug\MyBase003_01_Convert.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_01_Convert\bin\Debug\MyBase003_01_Convert.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_01_Convert\bin\Debug\MyBase003_01_Convert.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_01_Convert\obj\Debug\MyBase003_01_Convert.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_01_Convert\obj\Debug\MyBase003_01_Convert.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_01_Convert\obj\Debug\MyBase003_01_Convert.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_01_Convert\obj\Debug\MyBase003_01_Convert.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase003_01_Convert\obj\Debug\MyBase003_01_Convert.pdb
