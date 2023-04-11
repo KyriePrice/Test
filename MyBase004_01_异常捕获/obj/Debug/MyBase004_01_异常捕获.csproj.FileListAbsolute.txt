@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_01_异常捕获\bin\Debug\MyBase004_01_异常捕获.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_01_异常捕获\bin\Debug\MyBase004_01_异常捕获.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_01_异常捕获\bin\Debug\MyBase004_01_异常捕获.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_01_异常捕获\obj\Debug\MyBase004_01_异常捕获.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_01_异常捕获\obj\Debug\MyBase004_01_异常捕获.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_01_异常捕获\obj\Debug\MyBase004_01_异常捕获.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_01_异常捕获\obj\Debug\MyBase004_01_异常捕获.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_01_异常捕获\obj\Debug\MyBase004_01_异常捕获.pdb

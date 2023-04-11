@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_02_SwitchCase\bin\Debug\MyBase004_02_SwitchCase.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_02_SwitchCase\bin\Debug\MyBase004_02_SwitchCase.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_02_SwitchCase\bin\Debug\MyBase004_02_SwitchCase.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_02_SwitchCase\obj\Debug\MyBase004_02_SwitchCase.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_02_SwitchCase\obj\Debug\MyBase004_02_SwitchCase.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_02_SwitchCase\obj\Debug\MyBase004_02_SwitchCase.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_02_SwitchCase\obj\Debug\MyBase004_02_SwitchCase.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_02_SwitchCase\obj\Debug\MyBase004_02_SwitchCase.pdb

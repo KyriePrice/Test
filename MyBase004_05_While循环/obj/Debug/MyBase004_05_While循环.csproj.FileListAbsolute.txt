@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_05_While循环\bin\Debug\MyBase004_05_While循环.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_05_While循环\bin\Debug\MyBase004_05_While循环.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_05_While循环\bin\Debug\MyBase004_05_While循环.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_05_While循环\obj\Debug\MyBase004_05_While循环.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_05_While循环\obj\Debug\MyBase004_05_While循环.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_05_While循环\obj\Debug\MyBase004_05_While循环.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_05_While循环\obj\Debug\MyBase004_05_While循环.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_05_While循环\obj\Debug\MyBase004_05_While循环.pdb
