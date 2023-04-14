@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_06_break\obj\Debug\MyBase004_06_break.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_06_break\obj\Debug\MyBase004_06_break.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_06_break\obj\Debug\MyBase004_06_break.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_06_break\bin\Debug\MyBase004_06_break.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_06_break\bin\Debug\MyBase004_06_break.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_06_break\bin\Debug\MyBase004_06_break.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_06_break\obj\Debug\MyBase004_06_break.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase004_06_break\obj\Debug\MyBase004_06_break.pdb
