@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_03_for循环\bin\Debug\MyBase005_03_for循环.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_03_for循环\bin\Debug\MyBase005_03_for循环.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_03_for循环\bin\Debug\MyBase005_03_for循环.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_03_for循环\obj\Debug\MyBase005_03_for循环.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_03_for循环\obj\Debug\MyBase005_03_for循环.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_03_for循环\obj\Debug\MyBase005_03_for循环.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_03_for循环\obj\Debug\MyBase005_03_for循环.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_03_for循环\obj\Debug\MyBase005_03_for循环.pdb
