@@ -1,0 +1,8 @@
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_09_类型转换和方法简介\bin\Debug\MyBase005_09_类型转换和方法简介.exe.config
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_09_类型转换和方法简介\bin\Debug\MyBase005_09_类型转换和方法简介.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_09_类型转换和方法简介\bin\Debug\MyBase005_09_类型转换和方法简介.pdb
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_09_类型转换和方法简介\obj\Debug\MyBase005_09_类型转换和方法简介.csproj.AssemblyReference.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_09_类型转换和方法简介\obj\Debug\MyBase005_09_类型转换和方法简介.csproj.SuggestedBindingRedirects.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_09_类型转换和方法简介\obj\Debug\MyBase005_09_类型转换和方法简介.csproj.CoreCompileInputs.cache
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_09_类型转换和方法简介\obj\Debug\MyBase005_09_类型转换和方法简介.exe
+E:\Develop\VisualStudio\Code\CSharp\赵剑宇.NET基础课\MyBase005_09_类型转换和方法简介\obj\Debug\MyBase005_09_类型转换和方法简介.pdb
